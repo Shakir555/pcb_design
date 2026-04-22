@@ -1,0 +1,8 @@
+Added Component: Designator=J1(KF301_2P)
+Added Component: Designator=J2(KF301_2P)
+Added Pin To Net: NetName=+5V Pin=J1-1
+Added Pin To Net: NetName=NetC1_1 Pin=J1-2
+Added Pin To Net: NetName=3V3 Pin=J2-1
+Added Pin To Net: NetName=NetC1_1 Pin=J2-2
+Added Member To Class: ClassName=5v_3v3_vr Member=Component J1 KF301_2P
+Added Member To Class: ClassName=5v_3v3_vr Member=Component J2 KF301_2P

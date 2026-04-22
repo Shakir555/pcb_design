@@ -1,0 +1,6 @@
+Added Component: Designator=U1(AMS1117-3V3)
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Pin To Net: NetName=3V3 Pin=U1-2
+Added Pin To Net: NetName=3V3 Pin=U1-2
+Added Pin To Net: NetName=+5V Pin=U1-3
+Added Member To Class: ClassName=5v_3v3_vr Member=Component U1 AMS1117-3v3
